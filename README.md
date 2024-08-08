@@ -25,7 +25,7 @@ Este projeto se conecta a uma API Restful construída com Node.js, Express, Cors
 <br>
 <br>
 
-<h4>API Back-End></h4>
+<h3>API Back-End:</h3>
 O link para o repositório do back-end:🚀
 https://github.com/Suellenrosana/user-api-back.git
 
