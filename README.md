@@ -1,6 +1,8 @@
 <h1> User Registration 👩‍💻🧑‍💻</h1>
 
-Projeto Full Stack, esta é interface de front-end para a aplicação de gerenciamento de usuários. Ele permite cadastrar novos usuários e listar usuários existentes através de uma interface web. Este projeto se conecta a uma API RESTful construída com Node.js, Express, Cors e Prisma, utilizando MongoDB como banco de dados.
+Uma aplicação de gerenciamento de usuários Full Stack. Esta interface de front-end nos permite cadastrar novos usuários e listar usuários existentes através de uma interface web. 
+<br>
+Este projeto se conecta a uma API RESTful construída com Node.js, Express, Cors e Prisma, utilizando MongoDB como banco de dados.
 
 <h2>Funcionalidades</h2>
 
@@ -14,7 +16,7 @@ Projeto Full Stack, esta é interface de front-end para a aplicação de gerenci
 
 <li>Para renderização e melhor desempenho de navegação foi utilizada a biblioteca 'react-router-dom';</li>
 
-<li>Biblioteca Axios para conexão das requisições get, post, put e delete criadas numa API desenvolvida com o auxílio do PrismaSoft conectada ao banco de dados não-relacional MongoDB para armazenamento das informações requeridas pelo UI.</li>
+<li>Biblioteca Axios para conexão das requisições get, post, put e delete criadas numa API desenvolvida com o auxílio do PrismaSoft conectada ao banco de dados MongoDB.</li>
 
 </ul>
 
@@ -24,11 +26,11 @@ Projeto Full Stack, esta é interface de front-end para a aplicação de gerenci
 <br>
 
 <h4>API Back-End></h4>
-O link para o repositório do back-end pode ser encontrado aqui .
-[ Welcome](https://github.com/Suellenrosana/users-api-back)🚀
+O link para o repositório do back-end:
+(https://github.com/Suellenrosana/users-api-back)🚀
 
 <h2>🔍 Design Web</h2>
-<img src='https://github.com/Suellenrosana/user-registration-full/blob/main/interface-users/src/assets/user%20project.png?raw=true'>
+<img src='https://github.com/Suellenrosana/user-registration-front/blob/main/src/assets/user%20project.png?raw=true'>
 
 
 
