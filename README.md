@@ -27,7 +27,7 @@ Este projeto se conecta a uma API Restful construída com Node.js, Express, Cors
 
 <h4>API Back-End></h4>
 O link para o repositório do back-end:
-(https://github.com/Suellenrosana/user-api-back)](https://github.com/Suellenrosana/user-api-back.git)🚀
+https://github.com/Suellenrosana/user-api-back)](https://github.com/Suellenrosana/user-api-back.git🚀
 
 <h2>🔍 Design Web</h2>
 <img src='https://github.com/Suellenrosana/user-registration-front/blob/main/src/assets/user%20project.png?raw=true'>
