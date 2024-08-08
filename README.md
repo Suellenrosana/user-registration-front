@@ -1,8 +1,8 @@
 <h1> User Registration 👩‍💻🧑‍💻</h1>
 
-Uma aplicação de gerenciamento de usuários Full Stack. Esta interface de front-end nos permite cadastrar novos usuários e listar usuários existentes através de uma interface web. 
+Uma aplicação de gerenciamento de usuários Full Stack. Esta interface de front-end nos permite cadastrar novos usuários e listar usuários existentes através de uma página web. 
 <br>
-Este projeto se conecta a uma API RESTful construída com Node.js, Express, Cors e Prisma, utilizando MongoDB como banco de dados.
+Este projeto se conecta a uma API Restful construída com Node.js, Express, Cors e Prisma, utilizando MongoDB como banco de dados.
 
 <h2>Funcionalidades</h2>
 
@@ -27,7 +27,7 @@ Este projeto se conecta a uma API RESTful construída com Node.js, Express, Cors
 
 <h4>API Back-End></h4>
 O link para o repositório do back-end:
-(https://github.com/Suellenrosana/users-api-back)🚀
+(https://github.com/Suellenrosana/user-api-back)🚀
 
 <h2>🔍 Design Web</h2>
 <img src='https://github.com/Suellenrosana/user-registration-front/blob/main/src/assets/user%20project.png?raw=true'>
