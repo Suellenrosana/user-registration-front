@@ -8,7 +8,7 @@ Este projeto se conecta a uma API Restful construída com Node.js, Express, Cors
 
 <ul>
 
-<li>Para estilização foi utilizado o ‘Styled Components’, uma biblioteca do CSS que nos permite utilizar 'props'.,</li>
+<li>Para estilização foi utilizado o ‘Styled Components’, uma biblioteca do CSS que nos permite utilizar 'props';</li>
 
 <li>Utilização do Hook ‘UseNavigate’ para navegar entre as páginas 'Home' e 'Users Lists' na web;</li>
 
