@@ -1,7 +1,6 @@
 <h1> User Registration 👩‍💻🧑‍💻</h1>
 
-Projeto Full Stack: Página Web para cadastro de usuários, onde podemos solicitar os armazenamentos de nome, idade e email no banco de dados.
-
+Projeto Full Stack, esta é interface de front-end para a aplicação de gerenciamento de usuários. Ele permite cadastrar novos usuários e listar usuários existentes através de uma interface web. Este projeto se conecta a uma API RESTful construída com Node.js, Express, Cors e Prisma, utilizando MongoDB como banco de dados.
 
 <h2>Funcionalidades</h2>
 
@@ -20,10 +19,13 @@ Projeto Full Stack: Página Web para cadastro de usuários, onde podemos solicit
 </ul>
 
 <h3><b>Tecnologias utilizadas:</b></h3>
- HTML, CSS, Java Script, React, Styled Components, Prisma, Axios, MongoDB, 
+ HTML, CSS, Java Script, React, Styled Components, Node.js, Prisma, Cors, Axios, MongoDB, 
 <br>
 <br>
- Welcome🚀
+
+<h4>API Back-End></h4>
+O link para o repositório do back-end pode ser encontrado aqui .
+[ Welcome](https://github.com/Suellenrosana/users-api-back)🚀
 
 <h2>🔍 Design Web</h2>
 <img src='https://github.com/Suellenrosana/user-registration-full/blob/main/interface-users/src/assets/user%20project.png?raw=true'>
